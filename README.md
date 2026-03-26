@@ -71,7 +71,7 @@ In this task, I created an infographic using Canva to explain key concepts of di
 
 This task improved my ability to present information visually and concisely.
 
-<img width="379" height="766" alt="infographic" src="https://github.com/user-attachments/assets/bf89710c-959e-454c-9d1d-94bc7e178ef7" />
+![Infographic](Task-1/infographic.png)
 
 
 
@@ -82,19 +82,23 @@ This task improved my ability to present information visually and concisely.
 In this task, I created and updated my profiles on professional platforms:
 
 * **GitHub** – for managing and showcasing projects
- <img width="1919" height="903" alt="github" src="https://github.com/user-attachments/assets/09de7336-b9e4-41cb-af97-54160642357a" />
+![GitHub](Task-2/github.png) 
 
-* **LinkedIn** – for building a professional network
- <img width="532" height="802" alt="linkedin_profile" src="https://github.com/user-attachments/assets/4f1b242d-f710-4f61-864b-66307083a4a2" />
+
+* **LinkedIn** – for building a professional network\
+![LinkedIn](Task-2/linkedin_profile.png)
+ 
 
 * **Kaggle** – for exploring datasets, practicing data science, and participating in competitions
+
 
 
 Kaggle provides access to real-world datasets and notebooks, which will help me develop data analysis and machine learning skills in the future.
 
 These platforms will be very useful throughout my academic journey for building skills, showcasing work, and exploring opportunities.
 
-<img width="1918" height="867" alt="kaggle_profile" src="https://github.com/user-attachments/assets/c4e1e761-3b89-4930-841b-d73474fa7596" />
+![Kaggle](Task-2/kaggle_profile.png)
+
 
 ---
 
